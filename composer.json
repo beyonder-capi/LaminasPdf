@@ -1,6 +1,6 @@
 {
-  "name": "beyonder-capi/laminas-pdf",
-  "description": "Laminas enabled Pdf Component for PHP8.3+",
+  "name": "littlerocket/laminas-pdf",
+  "description": "Laminas enabled Pdf Component",
   "type": "library",
   "license": "BSD-3-Clause",
   "keywords": [
