@@ -1,5 +1,5 @@
 {
-  "name": "beyonder/laminas-pdf",
+  "name": "beyonder-capi/laminas-pdf",
   "description": "Laminas enabled Pdf Component",
   "type": "library",
   "license": "BSD-3-Clause",
